@@ -1,0 +1,240 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+  <tags>
+    <tag language="English" />
+  </tags>
+  <strings>
+    <string id="FLT0000000" text="{HERO} został awansowany do rangi {TIER}" />
+	<string id="FLT0000001" text="{HERO}, służyłeś wystarczająco długo, aby wypełnić swój pobór.  Możesz odejść i zachować swój ekwipunek, ale potrzebuję doświadczonych żołnierzy.  Oferuję Ci bonus 25000 {COIN} jeżeli zechcesz pozostać." />
+	<string id="FLT0000002" text="Zostanę" />
+	<string id="FLT0000003" text="Odchodzę" />
+	<string id="FLT0000004" text="{HERO}, udowodniłeś że jesteś niezrównanym wojownikiem.  Setki moich wrogów zninęło z Twoich rąk.  Potrzebuję takich ludzi jak Ty w moim królestwie.  Uczynię Ciebie moim wasalem.  Otrzymasz także wysoką premię jeżeli się zgodzisz" />
+	<string id="FLT0000005" text="Nadam Ci {FIEF} jako lenno jako nagrodę za Twoją służbę" />
+	<string id="FLT0000006" text="Moje miejsce jest jako żołnierz na polu bitwy" />
+	<string id="FLT0000007" text="Porozmawiaj ze mną ponownie jak zmienisz zdanie" />
+    <string id="FLT0000008" text="To będzie honor by Ci służyć" />
+	<string id="FLT0000009" text="Otrzymasz 500000 {COIN} jako nagrodę za Twoją służbę" />
+	<string id="FLT0000010" text="{HERO}, otrzymałem wiadomość od {KING}, przywódcy naszego królestwa.  {KING_GENDER_PRONOUN} chce porozmawiać z Tobą osobiście na temat nadania tytułu lorda.  Masz pozwolenie by opuścić bandę" />
+	<string id="FLT0000011" text="Chcę zostać" />
+	<string id="FLT0000012" text="Pójdę więc" />
+	<string id="FLT0000013" text="TODO: {HERO}, you have proven yourself to be a fine warrior.  For your bravery and loyalty, I have decided to give you a promotion.  Visit my blade smith and armourer in the camp and they will provide you with the gear befitting your new rank" />
+	<string id="FLT0000014" text="To dla mnie zaszczyt" />
+	<string id="FLT0000015" text="Pozwól mi dołączyć do Twojej bandy" />
+	<string id="FLT0000016" text="Nie ma szans by bandyta jak Ty dołączył do moich szeregów" />
+	<string id="FLT0000017" text="Nie chcę Ciebie w moich szeregach. Nie dogadujemy się" />
+	<string id="FLT0000018" text="Na temat tego oferowanego tytułu lorda" />
+	<string id="FLT0000019" text="TODO: {HERO}, you have shown yourself to be a warrior with no equal.  Hundreds of my enemies have died by your hands.  I need people like you in my kingdom" />
+	<string id="FLT0000020" text="To będzie dla mnie zaszczyt by Ci służyć" />
+	<string id="FLT0000021" text="Zmieniłem zdanie" />
+	<string id="FLT0000022" text="Nadam Ci osadę " />
+	<string id="FLT0000023" text="  jako osobiste lenno w nagrodę za służbę" />
+	<string id="FLT0000024" text="Otrzymasz 500000 {COIN} jako nagrodę za Twoją służbę" />
+	<string id="FLT0000025" text="Pewnie, możesz dołączyć" />
+	<string id="FLT0000026" text="{HERO} został pobrany w randze {TIER} z powodu wysokiej reputacji u {FACTION}" />
+	<string id="FLT0000027" text="Zmień ekwipunek" />
+	<string id="FLT0000028" text="TODO: Train with the troops" />
+	<string id="FLT0000029" text="TODO: Not enough men or uninjured men in lord's party" />
+	<string id="FLT0000030" text="TODO: Battle Commands : All" />
+	<string id="FLT0000031" text="TODO: Commands for all formations will be shouted durring battle\nClick to toggle" />
+	<string id="FLT0000032" text="TODO: Battle Commands : Player Formation Only" />
+	<string id="FLT0000033" text="TODO: Commands for only the player's formation will be shouted durring battle\nClick to toggle" />
+	<string id="FLT0000034" text="TODO: Participate in tournament" />
+	<string id="FLT0000035" text="TODO: Show reputation with factions" />
+	<string id="FLT0000036" text="TODO: Ask commander for leave" />
+	<string id="FLT0000037" text="TODO: Ask for a different assignment" />
+	<string id="FLT0000038" text="TODO: Lure bandits into ambush" />
+	<string id="FLT0000039" text="TODO: A small group of bandits is way to nimble to catch normally.  The only way to catch them is to trick them into attacking, although there is a chance things could go wrong" />
+	<string id="FLT0000040" text="TODO: You need to be mounted to do this" />
+	<string id="FLT0000041" text="TODO: You are wounded" />
+    <string id="FLT0000042" text="TODO: The bandits did not fall for your trap" />
+	<string id="FLT0000043" text="TODO: You took some minor injuries while being chased by bandits" />
+	<string id="FLT0000044" text="Opuść grupę" />
+	<string id="FLT0000045" text="TODO: This will damage your reputation with the {FACTION}" />
+	<string id="FLT0000046" text="TODO: Are you sure you want to abandon the party?  This will harm relations with the entire faction" />
+	<string id="FLT0000047" text="Tak" />
+	<string id="FLT0000048" text="Nie" />
+	<string id="FLT0000049" text="Wstecz" />
+	<string id="FLT0000050" text="TODO: {HERO}, I heard you are not happy with your current assignment.  What to would you rather do instead?" />
+	<string id="FLT0000051" text="TODO: Would this bag of {GOLD}{COIN} gold change your mind?" />
+	<string id="FLT0000052" text="TODO: Okay, you can do that" />
+	<string id="FLT0000053" text="TODO: I want to do manual labor" />
+	<string id="FLT0000054" text="TODO: I want to do guard duty" />
+	<string id="FLT0000055" text="TODO: I want to prepare the meals" />
+	<string id="FLT0000056" text="TODO: I want to forage for supplies" />
+	<string id="FLT0000057" text="TODO: I want to drill the troops" />
+	<string id="FLT0000058" text="Oczywiście, przyjacielu" />
+	<string id="FLT0000059" text="TODO: Of course, you are the perfect person for the job" />
+	<string id="FLT0000060" text="TODO: Sorry, but I dont think you have the skills for the job" />
+	<string id="FLT0000061" text="TODO: okay thanks bye" />
+	<string id="FLT0000062" text="TODO: You made a very persuasive argument. Fine, you can be one of my sergeants" />
+	<string id="FLT0000063" text="TODO: I want to lead the scouting expeditions" />
+	<string id="FLT0000064" text="TODO: You made a very persuasive argument. Fine, you can lead my scouts" />
+	<string id="FLT0000065" text="TODO: I want manage logistics" />
+	<string id="FLT0000066" text="TODO: You made a very persuasive argument. Fine, you can be my quartmaster" />
+	<string id="FLT0000067" text="TODO: I want to build war machines" />
+	<string id="FLT0000068" text="TODO: You made a very persuasive argument. Fine, you can be an engineer" />
+	<string id="FLT0000069" text="TODO: I want to take care of the wounded" />
+	<string id="FLT0000070" text="TODO: You made a very persuasive argument. Fine, you can be a surgeon" />
+	<string id="FLT0000071" text="TODO: I want to discuss war strategies" />
+	<string id="FLT0000072" text="TODO: You made a very persuasive argument. Fine, you can be my strategist" />
+	<string id="FLT0000073" text="TODO: {HERO}, your enlistment contact has not expired yet.  I can not have my soldiers leaving whenever they feel like" />
+	<string id="FLT0000074" text="TODO: You are right my lord my lord.  I will return to my duties" />
+	<string id="FLT0000075" text="TODO: I do need the money... Fine you may leave" />
+	<string id="FLT0000076" text="TODO: Select equipment to use" />
+    <string id="FLT0000077" text="Kontynuuj" />
+	<string id="FLT0000078" text="Obozowanie" />
+	<string id="FLT0000079" text="Utrzymywanie" />
+	<string id="FLT0000080" text="Atak {TARGET_PARTY}" />
+	<string id="FLT0000081" text="Gonienie {TARGET_PARTY}" />
+	<string id="FLT0000082" text="Uciekanie od {TARGET_PARTY}" />
+	<string id="FLT0000083" text="Uciekanie od {TARGET_PARTY} do osady" />
+	<string id="FLT0000084" text="Bronienie {TARGET_SETTLEMENT}" />
+	<string id="FLT0000085" text="Najeżdżanie {TARGET_SETTLEMENT}" />
+	<string id="FLT0000086" text="Oblęzenie {TARGET_SETTLEMENT}" />
+	<string id="FLT0000087" text="Patrol wokół {TARGET_SETTLEMENT}" />
+	<string id="FLT0000088" text="Patrol" />
+	<string id="FLT0000089" text="Podróż" />
+    <string id="FLT0000090" text="Podróż do punktu" />
+	<string id="FLT0000091" text="Uciekanie do {TARGET_PARTY}" />
+	<string id="FLT0000092" text="Podróż do {TARGET_PARTY}" />
+	<string id="FLT0000093" text="Podróż do osady" />
+	<string id="FLT0000094" text="Atak {TARGET_SETTLEMENT}" />
+	<string id="FLT0000095" text="Podążanie {TARGET_PARTY}" />
+	<string id="FLT0000096" text="Nieznane zachowanie" />
+	<string id="FLT0000097" text="Łucznik konny" />
+	<string id="FLT0000098" text="Kawaleria" />
+	<string id="FLT0000099" text="Dystansowi" />
+	<string id="FLT0000100" text="Kawaleria" />
+	<string id="FLT0000101" text="Cel grupy" />
+	<string id="FLT0000102" text="Cel armii" />
+	<string id="FLT0000103" text="Czas poboru" />
+	<string id="FLT0000104" text="Ranga poboru" />
+	<string id="FLT0000105" text="Formacja" />
+	<string id="FLT0000106" text="Żołd" />
+	<string id="FLT0000107" text="Obecne doświadczenie" />
+	<string id="FLT0000108" text="Doświadczenie do kolejnego poziomu" />
+	<string id="FLT0000109" text="Kiedy nie walczysz" />
+	<string id="FLT0000110" text="TODO: you are currently assigned to perform grunt work.  Most tasks are unpleasant, tiring or involve menial labor (Passive Daily Athletics XP)" />
+	<string id="FLT0000111" text="TODO: }you are currently assigned to guard duty.  You spend many sleepless night keeping watch for signs intruders (Passive Daily Scouting XP)" />
+	<string id="FLT0000112" text="TODO: you are currently assigned as one of the cooks.  You prepare the camps meals with whatever limited ingredients avalible (Passive Daily Steward XP)" />
+	<string id="FLT0000113" text="TODO: you are currently assigned to forage.  You ride through the nearby countryside looking for food (Passive Daily Riding XP and Daily Food To Party)" />
+	<string id="FLT0000114" text="TODO: you are currently assigned as the surgeon. You spend you time taking care of the wounded men (Medicine XP from party)" />
+	<string id="FLT0000115" text="TODO: you are currently assigned as the engineer.  The party relies on your knowelege of siegecraft to build war machines (Engineering XP from party)" />
+	<string id="FLT0000116" text="TODO: you are currently assigned to quartermaster. You make sure that the party is well supplied and the troops get paid on time (Steward XP from party)" />
+	<string id="FLT0000117" text="TODO: you are currently assigned to lead the scouting parties.  You and your men spend their time looking for signs of enemy parties and easy passages through difficult terrain  (Scouting XP from party)" />
+	<string id="FLT0000118" text="TODO: you are currently assigned as one of the sergeants.  You drill the men for war and discipline(beat) anyone who steps out of line (Passive Daily Leadership XP and Daily XP To Troops In Party)" />
+	<string id="FLT0000119" text="TODO: you are currently assigned as the strategist.  You spend your time in the commader's tent discussing war plans (Tactics XP from party)" />
+	<string id="FLT0000120" text="TODO: you have no current assigned duties.  You spend your idle time drinking, gambling, and chatting with the idle soilders" />
+	<string id="FLT0000121" text="TODO: I'm here to teach you miserable maggots how to fight, so you better listen up and do everything I say!" />
+	<string id="FLT0000122" text="TODO: Controll the recruits and gain enough xp throught dueling to be able to upgrade them and complete the mission" />
+	<string id="FLT0000123" text="TODO: You will fail the mission if all recruit get knocked out before getting enough xp" />
+	<string id="FLT0000124" text="Rekrutów pozostało" />
+	<string id="FLT0000125" text="Trening zakończony" />
+	<string id="FLT0000126" text="Trening w trakcie" />
+	<string id="FLT0000127" text="Nie możesz odejść póki nie zakończy się trening!" />
+	<string id="FLT0000128" text="TODO: The men need time to rest and recover.  There is no one left to fight" />
+	<string id="FLT0000129" text="TODO: I should stop before I seriously injury myself" />
+	<string id="FLT0000130" text="Wygrałeś, poddaję się!" />
+	<string id="FLT0000131" text="To naprawdę bolało, poddaję się!" />
+	<string id="FLT0000132" text="Tym razem miałeś szczęście. Następnym razem Cię pokonam!" />
+	<string id="FLT0000133" text="TODO: I am going to be sore in the morning!" />
+	<string id="FLT0000134" text="Dobra walka przyjacielu!" />
+	<string id="FLT0000135" text="Mogłem się na to nie zgadzać!" />
+	<string id="FLT0000136" text="Ahhh! I chyba coś złamałem!" />
+	<string id="FLT0000137" text="Nie spodziewałęm się że bronie treningowe tak bardzo bolą!" />
+	<string id="FLT0000138" text="To niesprawiedliwe, oszukiwałeś!" />
+	<string id="FLT0000139" text="Poddaję się!" />
+	<string id="FLT0000140" text="Piechota" />
+	<string id="FLT0000141" text="Łucznicy" />
+	<string id="FLT0000142" text="Kawaleria" />
+	<string id="FLT0000143" text="Łucznicy konni" />
+	<string id="FLT0000144" text="Pojedynki" />
+	<string id="FLT0000145" text="Ciężka piechota" />
+	<string id="FLT0000146" text="Lekka kawaleria" />
+	<string id="FLT0000147" text="Ciężka kawaleria" />
+	<string id="FLT0000148" text="TODO: {HERO}, You have done well, the recruits can actual hold their own now. [rf:very_positive_hi, rb:very_positive]" />
+	<string id="FLT0000149" text="TODO: Just doing my job!" />
+	<string id="FLT0000150" text="TODO: {HERO} I expected better from you! [rf:very_positive_ag, rb:very_positive]" />
+	<string id="FLT0000151" text="TODO: I am sorry my lord" />
+	<string id="FLT0000152" text="TODO: {HERO} I have a task for you!  I have a bunch of new recruits that won't be of much use in a battle.  I need you to train them and get them caught up to the rest of the army.  You can make use of the sparring equipment at the arena to train [rf:very_positive_ag, rb:very_positive]" />
+	<string id="FLT0000153" text="TODO: Of course my lord!" />
+	<string id="FLT0000154" text="TODO: I can't turn a bunch of peasants into soldiers overnight, only the trials of many battles can do that" />
+	<string id="FLT0000155" text="TODO: Thank you {HERO}, You saved my bussiness![rf:very_positive_hi, rb:very_positive]" />
+	<string id="FLT0000156" text="TODO: {HERO} are you okay?[rf:unsure_hi, rb:unsure]" />
+	<string id="FLT0000157" text="TODO: I'm fine. I'm sorry I let the thugs escape" />
+	<string id="FLT0000158" text="TODO: Don't feel bad, the thugs had you outnumbered.  You had no chance against that many.  The commotion from that fight drew the attention of every guard in town.  The thugs had to flee so fast that the weren't able to take any of my merchandise with them" />
+	<string id="FLT0000159" text="TODO: Glad I could help" />
+	<string id="FLT0000160" text="TODO: Guards! Guards!  {ROBBER}'s thugs are stealing all of the goods from my shop!  Come quick before they get away![rf:very_negative_hi, rb:very_negative]" />
+	<string id="FLT0000161" text="TODO: I am a soldier not a guard!  This is none of my bussiness!" />
+	<string id="FLT0000162" text="TODO: {RIVAL_GANG_LEADER}'s Party" />
+	<string id="FLT0000163" text="TODO: A few of the men from your party found your body and brought it back to the camp" />
+	<string id="FLT0000164" text="TODO: Well done {HERO}, here is the money I promised you![rf:very_positive_hi, rb:very_positive]" />
+	<string id="FLT0000165" text="TODO: You want to make some quick gold?  I got a problem with a upstart by the name of {RIVAL}.  {GENDER_PRONOUN} has been bothering shop owners under our protection, demanding money and making threats. Let me tell you something - those shop owners are my cows, and no one else gets to milk them.  Me and my boys are eager to teach them a lesson but I figure some extra muscle wouldn't hurt." />
+	<string id="FLT0000166" text="TODO: Quick gold you say, sign me up!" />
+	<string id="FLT0000167" text="TODO: I don't want any part in this" />
+	<string id="FLT0000168" text="TODO: Men!  Ready you weapons!  I warned these poacher scum never to come back here again!   [rf:very_negative_hi, rb:very_negative]" />
+	<string id="FLT0000169" text="TODO: Time to teach those bastards a lesson!" />
+	<string id="FLT0000170" text="TODO: Thank you so much for protecting our village![rf:very_positive_hi, rb:very_positive]" />
+	<string id="FLT0000171" text="TODO: Men!  We will be staying in this village for a while.  The locals have told me a band of army deserters have been extorting the villagers.  We will hide in the houses and ambush the brigands when they show up again" />
+	<string id="FLT0000172" text="TODO: Sound the alarm!  We are under attack!  To arms men!  [rf:very_negative_hi, rb:very_negative]" />
+	<string id="FLT0000173" text="TODO: Where did they come from?" />
+	<string id="FLT0000174" text="TODO: Bandit Ambush Party" />
+	<string id="FLT0000175" text="TODO: As you walk through the ravaged village, you notice one house in particular that is covered in blood.  As you walk closer the stench of death hits your nostrils.  It become clear to you what happened here.  The sturbon yet foolish family of this house decided to stay behind and defend what little they owned.  The looting soldiers of your army had little patience for those that resisteted and cut down the family where they stood" />
+	<string id="FLT0000176" text="TODO: Suddenly the sound of crys and screams catches your attention.  Someone is still inside.  As you go in to investigate, you quickly find source of the noise.  It is a child, barely older than an infant.  The soldiers that came by earlier either didn't notice or didn't have the heart to kill the child.  You realize that with all the villagers driven away, it might be days or even weeks before anyone return and you are not sure what will happen to the child by then" />
+	<string id="FLT0000177" text="Zabierz dziecko ze sobą" />
+	<string id="FLT0000178" text="Opuść" />
+	<string id="FLT0000179" text="{HERO} adoptował dziecko {CHILD}" />
+	<string id="FLT0000180" text="Walka wręcz" />
+	<string id="FLT0000181" text="Dystansowi" />
+	<string id="FLT0000182" text="Kawaleria" />
+	<string id="FLT0000183" text="TODO: Select training type" />
+	<string id="FLT0000184" text="TODO: Attack enemey villagers" />
+	<string id="FLT0000185" text="TODO: Ride out with the cavalry to attack enemy villagers" />
+	<string id="FLT0000186" text="TODO: The villagers managed to escape" />
+	<string id="FLT0000187" text="TODO: Cavalry Detachment" />
+	<string id="FLT0000188" text="TODO: Attack enemy caravan" />
+	<string id="FLT0000189" text="TODO: Ride out with the cavalry to attack enemy caravan" />
+	<string id="FLT0000190" text="TODO: The caravan managed to escape" />
+	<string id="FLT0000191" text="TODO: Serving As Soldier Base" />
+	<string id="FLT0000192" text="Medycyna" />
+	<string id="FLT0000193" text="TODO: {HERO}, you have proven yourself to be a fine warrior.  For your bravery and loyalty, I have decided to give you a promotion.  You can serve as one of my commanders and you have the privilege of assembling your own retinue of companions and kinsmen while serving under me.  I will pay for their wages as well" />
+	<string id="FLT0000194" text="TODO: Manage Retinue" />
+	<string id="FLT0000195" text="Jednoręczne : " />
+	<string id="FLT0000196" text="Dwuręczne : " />
+	<string id="FLT0000197" text="Broń drzewcowa : " />
+	<string id="FLT0000198" text="Łuk : " />
+	<string id="FLT0000199" text="Kusza : " />
+	<string id="FLT0000200" text="Rzucanie : " />
+	<string id="FLT0000201" text="Jeździectwo : " />
+	<string id="FLT0000202" text="Atletyka : " />
+	<string id="FLT0000203" text="Wybierz towarzyszy którzy do Ciebie dołączą" />
+	<string id="FLT0000204" text="Rzucanie" />
+	<string id="FLT0000205" text="TODO: Serve As Soldier : Winning tournaments while enlisted grants 50% more xp for promotions" />
+	<string id="FLT0000206" text="TODO: Serve As Soldier : Training with troops grants 50% more xp towards combat skill" />
+	<string id="FLT0000207" text="TODO: Serve As Soldier : Knock downs while training with troops grant 0.1 renown" />
+	<string id="FLT0000208" text="TODO: Serve As Soldier : Knock downs while serving as a soldier in battle grant 0.3 renown" />
+	<string id="FLT0000209" text="TODO: Serve As Soldier : Knock downs while fighting on foot in battles grant 0.3 renown" />
+	<string id="FLT0000210" text="TODO: Serve As Soldier : Wages earned increased by 20%" />
+	<string id="FLT0000211" text="TODO: Serve As Soldier : Knock downs caused by ranged damage in battles grant 0.3 renown" />
+	<string id="FLT0000212" text="TODO: Serve As Soldier : Headshots in battle generate extra skill xp" />
+	<string id="FLT0000213" text="TODO: Serve As Soldier : Crossbow shots in battle that hit from over 50 meters away generate extra skill xp" />
+	<string id="FLT0000214" text="TODO: Serve As Soldier : Crossbow shots in battle while mounted generate extra skill xp" />
+	<string id="FLT0000215" text="TODO: Serve As Soldier : Recieve a 1000 gold bonus for every enemy lord knocked out in battle" />
+	<string id="FLT0000216" text="TODO: Serve As Soldier : Knock outs with throwing weapons while training with troops grants 0.2 renown" />
+	<string id="FLT0000217" text="TODO: One focus point gained in {SKILL} from training" />
+	<string id="FLT0000218" text="TODO: One attribute point gained in {ATTRIBUTE} from training" />
+	<string id="FLT0000219" text="Czekaj w rezerwie" />
+	<string id="FLT0000220" text="TODO: You are waiting in reserve" />
+	<string id="FLT0000221" text="TODO: You cant wait in reserve if there are less than 100 healthy troops in the army" />
+	<string id="FLT0000222" text="Wróć do bitwy" />
+	<string id="FLT0000223" text="TODO: One focus point gained in {SKILL} from daily assignment" />
+	<string id="FLT0000224" text="TODO: One attribute point gained in {ATTRIBUTE} from daily assignment" />
+	<string id="FLT0000225" text="Wciśnij U by zmienić postać" />
+	<string id="FLT0000226" text="Granie jako {CHARACTER}" />
+	<string id="FLT0000227" text="Wciśnij H by włączyć auto-trening" />
+	<string id="FLT0000228" text="TODO: " />
+	<string id="FLT0000229" text="TODO: " />
+	<string id="FLT0000230" text="TODO: " />
+	<string id="FLT0000231" text="TODO: " />
+  </strings>
+</base>
